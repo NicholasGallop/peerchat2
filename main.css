@@ -19,8 +19,8 @@
 }
 
 .smallFrame{
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+ /* filter: blur(8px);
+  -webkit-filter: blur(8px); */
   position: fixed;
   top: 20px;
   left: 20px;
